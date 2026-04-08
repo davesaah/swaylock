@@ -27,7 +27,7 @@ ignore-empty-password
 indicator
 disable-caps-lock-text
 clock
-image=$HOME/Pictures/Wallpapers/art/void-1920x1080.png
+image=$HOME/Pictures/wallpapers/void-1920x1080.png
 datestr=%a, %b %e
 indicator-radius=100
 key-hl-color=#1e1e28
